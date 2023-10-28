@@ -1,1 +1,1 @@
-# Mobile-App-Testing-with-Appium
+# EriBankMobileApp
