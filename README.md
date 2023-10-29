@@ -1,7 +1,7 @@
 
 # Mobile Testing on EriBankMobileApp
 
-This repository contains code and instructions for completing a mobile testing assignment. I've use Appium and Selenium in an Android environment to simulate user behavior and ensure the Android app reacts correctly.
+This repository contains code and instructions for completing a mobile testing project. I've used Appium and Selenium in an Android environment to simulate user behavior and ensure the Android app reacts correctly.
 
 ## Table of Contents
 
