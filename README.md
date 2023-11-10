@@ -21,7 +21,24 @@ This repository contains code and instructions for completing a mobile testing p
 
 
 ## Project Description
-This project focuses on mobile testing of the EriBankMobileApp, an Android application, using the powerful combination of Selenium and Appium. The primary objective is to ensure the app's reliability and functionality by simulating user interactions, automating test scenarios, and verifying the app's responses.
+This project focuses on mobile testing of the EriBankMobileApp, an Android application, using the powerful combination of Selenium and Appium. Test Scenarios:
+
+1. **Login Validation:**
+   - Validates login view presence.
+   - Enters and clears a test username.
+   - Tests login button, ensuring a transition to the summary page.
+
+2. **Make Payment Process:**
+   - Initiates the payment process, validating the transition.
+   - Enters payment details and handles interactions (e.g., slider, buttons).
+   - Tests cancel button and verifies the return to the summary page.
+
+3. **Additional Payment Scenario:**
+   - Repeats the payment process with new data, including country selection.
+   - Handles alerts during payment.
+
+4. **Logout:**
+   - Tests logout button, confirming the return to the login page.
 
 ## Prerequisites
 
